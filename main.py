@@ -15,6 +15,6 @@ patterns = {
 }
 
 print("\nExtracted Data:\n")
-for label, pattern in patterns.items():
-    matches = re.findall(pattern, test_input)
-    print(f"{label}:\n{matches}\n")
+for x, y in patterns.items():
+    matches = re.findall(y, test_input)
+    print(f"{x}:\n{matches}\n")
