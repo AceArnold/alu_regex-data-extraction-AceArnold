@@ -16,5 +16,7 @@ patterns = {
 
 print("\nExtracted Data:\n")
 for x, y in patterns.items():
+    #x is the name of the pattern
+    #y is the regex pattern
     matches = re.findall(y, test_input)
     print(f"{x}:\n{matches}\n")
