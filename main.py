@@ -7,8 +7,7 @@ patterns = {
     "Email Addresses": r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b",
     "URLs": r"https?:\/\/(?:www\.)?[a-zA-Z0-9\-\.]+\.[a-z]{2,}(?:\/\S*)?",
     "Phone Numbers": r"\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}",
-    "HTML Tags": r"<[^>]+>",
-    
+    "HTML Tags": r"<[^>]+>", 
 }
 
 print("\nExtracted Data:\n")
