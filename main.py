@@ -8,6 +8,8 @@ patterns = {
     "URLs": r"https?:\/\/(?:www\.)?[a-zA-Z0-9\-\.]+\.[a-z]{2,}(?:\/\S*)?",
     "Phone Numbers": r"\(?\d{3}\)?[\s.-]?\d{3}[\s.-]?\d{4}",
     "HTML Tags": r"<[^>]+>", 
+    "currency": r"\$\d+(?:\.\d{2})?",
+
 }
 
 print("\nExtracted Data:\n")

@@ -1,0 +1,178 @@
+Chunk 1 of 8
+*165*S*4521 RWF transferred to QuickPay Ltd (250790251480) from 22441312 at 2025-05-19 11:54:00 .Fee was: 100 RWF. New balance: 113928 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+*164*S*Y'ello, A transaction of 16039 RWF by BenePay Ltd on your MOMO account was successfully completed at 2025-05-21 06:31:00. Message from debit receiver: Payment for groceries. Your new balance:91100 RWF. Fee was 0 RWF. Financial Transaction Id: 20064063749. External Transaction Id: 377719877.*EN#
+
+TxId: 20257651417. Your payment of 8345 RWF to QuickPay Ltd. 22441312 has been completed at 2025-05-18 07:53:00. Your new balance: 140324 RWF. Fee was 0 RWF.
+
+*164*S*Y'ello, A transaction of 13433 RWF by NDIHO Group on your MOMO account was successfully completed at 2025-05-18 18:38:00. Message from debit receiver: fund-transfer to 250787976990. Your new balance:184158 RWF. Fee was 0 RWF. Financial Transaction Id: 20997093523. External Transaction Id: 493955007.*EN#
+
+You have received 13888 RWF from Olive MUKANDOLI (*616) on your mobile money account at 2025-05-14 20:48:00. Message from sender: Payment for groceries. Your new balance:93016 RWF. Financial Transaction Id: 20828779396
+
+You have received 9768 RWF from CEDRIC NSENGIYUMVA NGABO (*682) on your mobile money account at 2025-05-18 06:42:00. Message from sender: Guhemba InitID 34481. Your new balance:15348 RWF. Financial Transaction Id: 20397217292
+
+You have received 16748 RWF from Eric MUKIZA (*297) on your mobile money account at 2025-05-19 19:44:00. Message from sender: Payment for groceries. Your new balance:123304 RWF. Financial Transaction Id: 20817547777
+
+*164*S*Y'ello, A transaction of 17844 RWF by NDIHO Group on your MOMO account was successfully completed at 2025-05-16 19:34:00. Message from debit receiver: Guhemba InitID 34481. Your new balance:45707 RWF. Fee was 0 RWF. Financial Transaction Id: 20153356767. External Transaction Id: 149684418.*EN#
+
+*164*S*Y'ello, A transaction of 14910 RWF by BenePay Ltd on your MOMO account was successfully completed at 2025-05-16 04:14:00. Message from debit receiver: Payment for groceries. Your new balance:141865 RWF. Fee was 0 RWF. Financial Transaction Id: 20779011396. External Transaction Id: 960377660.*EN#
+
+TxId: 20554665280. Your payment of 769 RWF to QuickPay Ltd. 19881572 has been completed at 2025-05-20 12:05:00. Your new balance: 164921 RWF. Fee was 0 RWF.
+
+Chunk 2 of 8
+You have received 11800 RWF from Eric MUKIZA (*902) on your mobile money account at 2025-05-15 20:24:00. Message from sender: Payment for groceries. Your new balance:82931 RWF. Financial Transaction Id: 20784954693
+
+TxId: 20141835584. Your payment of 14969 RWF to QuickPay Ltd. 31278964 has been completed at 2025-05-20 11:16:00. Your new balance: 136111 RWF. Fee was 0 RWF.
+
+You have received 17563 RWF from Olive MUKANDOLI (*899) on your mobile money account at 2025-05-21 03:20:00. Message from sender: Loan repayment. Your new balance:107593 RWF. Financial Transaction Id: 20282948327
+
+*164*S*Y'ello, A transaction of 5547 RWF by INZOZI Ltd on your MOMO account was successfully completed at 2025-05-15 22:54:00. Message from debit receiver: Guhemba InitID 34481. Your new balance:142765 RWF. Fee was 0 RWF. Financial Transaction Id: 20169335366. External Transaction Id: 996307557.*EN#
+
+*165*S*9642 RWF transferred to TechZone Ltd (250798098711) from 31278964 at 2025-05-16 09:39:00 .Fee was: 0 RWF. New balance: 108033 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+You have received 13996 RWF from Jean Bosco (*768) on your mobile money account at 2025-05-17 14:06:00. Message from sender: fund-transfer to 250787976990. Your new balance:124832 RWF. Financial Transaction Id: 20538572907
+
+*165*S*6147 RWF transferred to AgroMarket (250790990776) from 43127890 at 2025-05-17 00:40:00 .Fee was: 0 RWF. New balance: 154027 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+You have received 14852 RWF from Jean Bosco (*232) on your mobile money account at 2025-05-20 06:38:00. Message from sender: Loan repayment. Your new balance:155503 RWF. Financial Transaction Id: 20685492138
+
+TxId: 20454125674. Your payment of 15192 RWF to TechZone Ltd. 43127890 has been completed at 2025-05-18 21:39:00. Your new balance: 169497 RWF. Fee was 0 RWF.
+
+Chunk 3 of 8
+*165*S*17094 RWF transferred to SAWA CITI LTD (250791321553) from 19881572 at 2025-05-21 06:12:00 .Fee was: 0 RWF. New balance: 147166 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+TxId: 20891234567. Your payment of 19000 RWF to AgroMarket. 22441312 has been completed at 2025-05-19 10:20:00. Your new balance: 160123 RWF. Fee was 0 RWF.
+
+You have received 12045 RWF from Jean Bosco (*799) on your mobile money account at 2025-05-14 10:42:00. Message from sender: Payment for groceries. Your new balance:110356 RWF. Financial Transaction Id: 20734675328
+
+*164*S*Y'ello, A transaction of 1907 RWF by GUHEMBA Ltd on your MOMO account was successfully completed at 2025-05-17 20:18:00. Message from debit receiver: Guhemba InitID 34481. Your new balance:153126 RWF. Fee was 0 RWF. Financial Transaction Id: 20936478291. External Transaction Id: 245678912.*EN#
+
+You have received 5712 RWF from Olive MUKANDOLI (*404) on your mobile money account at 2025-05-15 21:17:00. Message from sender: Payment for groceries. Your new balance:135974 RWF. Financial Transaction Id: 20798754212
+
+TxId: 20357362452. Your payment of 5000 RWF to SAWA CITI LTD. 19881572 has been completed at 2025-05-16 13:25:00. Your new balance: 132450 RWF. Fee was 0 RWF.
+
+You have received 19876 RWF from Eric MUKIZA (*112) on your mobile money account at 2025-05-21 11:58:00. Message from sender: Loan repayment. Your new balance:143505 RWF. Financial Transaction Id: 20184372109
+
+*165*S*6000 RWF transferred to QuickPay Ltd (250792349011) from 31278964 at 2025-05-15 19:43:00 .Fee was: 50 RWF. New balance: 151200 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+You have received 8422 RWF from CEDRIC NSENGIYUMVA NGABO (*726) on your mobile money account at 2025-05-20 07:16:00. Message from sender: fund-transfer to 250787976990. Your new balance:137983 RWF. Financial Transaction Id: 20873215489
+
+Chunk 4 of 8
+*164*S*Y'ello, A transaction of 14123 RWF by GreenTech Ltd on your MOMO account was successfully completed at 2025-05-19 15:45:00. Message from debit receiver: Payment for services. Your new balance: 153212 RWF. Fee was 0 RWF. Financial Transaction Id: 21023784911. External Transaction Id: 384756920.*EN#
+
+You have received 7634 RWF from Olive MUKANDOLI (*845) on your mobile money account at 2025-05-20 09:33:00. Message from sender: Loan repayment. Your new balance: 147846 RWF. Financial Transaction Id: 20987543122
+
+TxId: 20965432123. Your payment of 4500 RWF to QuickPay Ltd. 22441312 has been completed at 2025-05-17 11:00:00. Your new balance: 158412 RWF. Fee was 0 RWF.
+
+*165*S*4520 RWF transferred to AgroMarket (250791990776) from 43127890 at 2025-05-18 14:20:00 .Fee was: 0 RWF. New balance: 161932 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+You have received 18200 RWF from Eric MUKIZA (*577) on your mobile money account at 2025-05-16 16:50:00. Message from sender: Payment for groceries. Your new balance: 140633 RWF. Financial Transaction Id: 21065498776
+
+*164*S*Y'ello, A transaction of 5300 RWF by BenePay Ltd on your MOMO account was successfully completed at 2025-05-18 08:27:00. Message from debit receiver: fund-transfer to 250787976990. Your new balance: 144128 RWF. Fee was 0 RWF. Financial Transaction Id: 20765432112. External Transaction Id: 384756983.*EN#
+
+TxId: 20412398754. Your payment of 12500 RWF to TechZone Ltd. 31278964 has been completed at 2025-05-19 18:30:00. Your new balance: 172128 RWF. Fee was 0 RWF.
+
+You have received 8900 RWF from Jean Bosco (*344) on your mobile money account at 2025-05-21 08:15:00. Message from sender: Loan repayment. Your new balance: 161115 RWF. Financial Transaction Id: 20987654231
+
+*165*S*1750 RWF transferred to QuickPay Ltd (250790251480) from 22441312 at 2025-05-20 12:44:00 .Fee was: 50 RWF. New balance: 163115 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+You have received 21000 RWF from Olive MUKANDOLI (*688) on your mobile money account at 2025-05-19 17:52:00. Message from sender: Payment for services. Your new balance: 180115 RWF. Financial Transaction Id: 21009876543
+
+Chunk 5 of 8
+TxId: 20765432891. Your payment of 11500 RWF to AgroMarket. 43127890 has been completed at 2025-05-18 09:10:00. Your new balance: 165115 RWF. Fee was 0 RWF.
+
+*164*S*Y'ello, A transaction of 9300 RWF by GUHEMBA Ltd on your MOMO account was successfully completed at 2025-05-20 15:35:00. Message from debit receiver: Guhemba InitID 34481. Your new balance: 158815 RWF. Fee was 0 RWF. Financial Transaction Id: 21019876543. External Transaction Id: 487563920.*EN#
+
+You have received 12500 RWF from Eric MUKIZA (*332) on your mobile money account at 2025-05-21 12:23:00. Message from sender: Payment for groceries. Your new balance: 173615 RWF. Financial Transaction Id: 21087654321
+
+*165*S*6350 RWF transferred to TechZone Ltd (250798098711) from 31278964 at 2025-05-20 19:40:00 .Fee was: 0 RWF. New balance: 160265 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+TxId: 20365748219. Your payment of 7500 RWF to QuickPay Ltd. 22441312 has been completed at 2025-05-19 10:25:00. Your new balance: 155265 RWF. Fee was 0 RWF.
+
+You have received 9800 RWF from Jean Bosco (*991) on your mobile money account at 2025-05-15 11:34:00. Message from sender: Loan repayment. Your new balance: 147965 RWF. Financial Transaction Id: 20987643210
+
+*164*S*Y'ello, A transaction of 11400 RWF by GreenTech Ltd on your MOMO account was successfully completed at 2025-05-19 21:10:00. Message from debit receiver: Payment for services. Your new balance: 149365 RWF. Fee was 0 RWF. Financial Transaction Id: 21098765432. External Transaction Id: 564738291.*EN#
+
+You have received 13400 RWF from Olive MUKANDOLI (*553) on your mobile money account at 2025-05-16 16:22:00. Message from sender: fund-transfer to 250787976990. Your new balance: 163765 RWF. Financial Transaction Id: 20956473829
+
+*165*S*4210 RWF transferred to AgroMarket (250791990776) from 43127890 at 2025-05-21 14:40:00 .Fee was: 50 RWF. New balance: 159555 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+TxId: 20678491238. Your payment of 7100 RWF to SAWA CITI LTD. 19881572 has been completed at 2025-05-20 08:50:00. Your new balance: 168655 RWF. Fee was 0 RWF.
+
+You have received 17800 RWF from CEDRIC NSENGIYUMVA NGABO (*881) on your mobile money account at 2025-05-17 19:12:00. Message from sender: Payment for groceries. Your new balance: 185555 RWF. Financial Transaction Id: 21023894765
+
+Chunk 6 of 8
+*164*S*Y'ello, A transaction of 10300 RWF by BenePay Ltd on your MOMO account was successfully completed at 2025-05-16 13:33:00. Message from debit receiver: fund-transfer to 250787976990. Your new balance: 174255 RWF. Fee was 0 RWF. Financial Transaction Id: 20937465829. External Transaction Id: 394857362.*EN#
+
+You have received 8200 RWF from Olive MUKANDOLI (*472) on your mobile money account at 2025-05-15 07:29:00. Message from sender: Loan repayment. Your new balance: 162855 RWF. Financial Transaction Id: 20897463528
+
+TxId: 20798372645. Your payment of 12750 RWF to QuickPay Ltd. 22441312 has been completed at 2025-05-20 09:30:00. Your new balance: 175605 RWF. Fee was 0 RWF.
+
+*165*S*6300 RWF transferred to TechZone Ltd (250798098711) from 31278964 at 2025-05-19 18:00:00 .Fee was: 0 RWF. New balance: 168305 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+You have received 14200 RWF from Jean Bosco (*644) on your mobile money account at 2025-05-21 10:14:00. Message from sender: Payment for groceries. Your new balance: 182405 RWF. Financial Transaction Id: 21056473821
+
+TxId: 20465738291. Your payment of 8450 RWF to AgroMarket. 43127890 has been completed at 2025-05-17 20:25:00. Your new balance: 172955 RWF. Fee was 0 RWF.
+
+*164*S*Y'ello, A transaction of 10450 RWF by GUHEMBA Ltd on your MOMO account was successfully completed at 2025-05-18 15:45:00. Message from debit receiver: Guhemba InitID 34481. Your new balance: 166505 RWF. Fee was 0 RWF. Financial Transaction Id: 20984736218. External Transaction Id: 484756392.*EN#
+
+You have received 11600 RWF from Eric MUKIZA (*774) on your mobile money account at 2025-05-19 22:05:00. Message from sender: fund-transfer to 250787976990. Your new balance: 178105 RWF. Financial Transaction Id: 21098765432
+
+TxId: 20347892135. Your payment of 9800 RWF to QuickPay Ltd. 19881572 has been completed at 2025-05-16 16:30:00. Your new balance: 167305 RWF. Fee was 0 RWF.
+
+*165*S*4820 RWF transferred to SAWA CITI LTD (250791321553) from 19881572 at 2025-05-21 12:48:00 .Fee was: 0 RWF. New balance: 172125 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+You have received 12300 RWF from Olive MUKANDOLI (*599) on your mobile money account at 2025-05-18 14:20:00. Message from sender: Payment for services. Your new balance: 184425 RWF. Financial Transaction Id: 21054673822
+
+Chunk 7 of 8
+TxId: 20837651942. Your payment of 11000 RWF to TechZone Ltd. 31278964 has been completed at 2025-05-20 14:45:00. Your new balance: 174425 RWF. Fee was 0 RWF.
+
+*164*S*Y'ello, A transaction of 9500 RWF by GreenTech Ltd on your MOMO account was successfully completed at 2025-05-19 17:38:00. Message from debit receiver: Payment for services. Your new balance: 164925 RWF. Fee was 0 RWF. Financial Transaction Id: 21098765431. External Transaction Id: 483726459.*EN#
+
+You have received 13200 RWF from Jean Bosco (*721) on your mobile money account at 2025-05-21 09:12:00. Message from sender: Loan repayment. Your new balance: 177125 RWF. Financial Transaction Id: 21019283746
+
+*165*S*7150 RWF transferred to AgroMarket (250791990776) from 43127890 at 2025-05-21 10:15:00 .Fee was: 0 RWF. New balance: 169975 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+TxId: 20482937461. Your payment of 6800 RWF to QuickPay Ltd. 22441312 has been completed at 2025-05-19 11:50:00. Your new balance: 162175 RWF. Fee was 0 RWF.
+
+You have received 14750 RWF from Eric MUKIZA (*883) on your mobile money account at 2025-05-16 12:22:00. Message from sender: fund-transfer to 250787976990. Your new balance: 176925 RWF. Financial Transaction Id: 21083746592
+
+*164*S*Y'ello, A transaction of 10000 RWF by BenePay Ltd on your MOMO account was successfully completed at 2025-05-15 20:30:00. Message from debit receiver: Payment for groceries. Your new balance: 166925 RWF. Fee was 0 RWF. Financial Transaction Id: 21028475913. External Transaction Id: 394857216.*EN#
+
+You have received 10800 RWF from Olive MUKANDOLI (*399) on your mobile money account at 2025-05-20 08:15:00. Message from sender: Payment for services. Your new balance: 177725 RWF. Financial Transaction Id: 21045673829
+
+TxId: 20738945671. Your payment of 9600 RWF to SAWA CITI LTD. 19881572 has been completed at 2025-05-21 16:45:00. Your new balance: 168125 RWF. Fee was 0 RWF.
+
+*165*S*6350 RWF transferred to QuickPay Ltd (250790251480) from 22441312 at 2025-05-18 10:35:00 .Fee was: 0 RWF. New balance: 174475 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+You have received 17100 RWF from Jean Bosco (*632) on your mobile money account at 2025-05-19 14:44:00. Message from sender: Loan repayment. Your new balance: 
+
+Chunk 8 of 8
+17100 RWF from Jean Bosco (*632) on your mobile money account at 2025-05-19 14:44:00. Message from sender: Loan repayment. Your new balance: 181575 RWF. Financial Transaction Id: 21098712345
+
+TxId: 20391248765. Your payment of 8800 RWF to AgroMarket. 43127890 has been completed at 2025-05-20 15:55:00. Your new balance: 172775 RWF. Fee was 0 RWF.
+
+*164*S*Y'ello, A transaction of 11200 RWF by GUHEMBA Ltd on your MOMO account was successfully completed at 2025-05-21 10:20:00. Message from debit receiver: Guhemba InitID 34481. Your new balance: 183975 RWF. Fee was 0 RWF. Financial Transaction Id: 21056473821. External Transaction Id: 498374651.*EN#
+
+You have received 12900 RWF from Eric MUKIZA (*788) on your mobile money account at 2025-05-17 09:30:00. Message from sender: Payment for groceries. Your new balance: 170675 RWF. Financial Transaction Id: 20983746521
+
+*165*S*6200 RWF transferred to TechZone Ltd (250798098711) from 31278964 at 2025-05-19 20:40:00 .Fee was: 0 RWF. New balance: 164475 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+TxId: 20498273645. Your payment of 7400 RWF to QuickPay Ltd. 22441312 has been completed at 2025-05-18 17:25:00. Your new balance: 157075 RWF. Fee was 0 RWF.
+
+You have received 9600 RWF from Jean Bosco (*491) on your mobile money account at 2025-05-21 11:45:00. Message from sender: Loan repayment. Your new balance: 166675 RWF. Financial Transaction Id: 21019384756
+
+*164*S*Y'ello, A transaction of 11800 RWF by GreenTech Ltd on your MOMO account was successfully completed at 2025-05-16 14:40:00. Message from debit receiver: Payment for services. Your new balance: 174475 RWF. Fee was 0 RWF. Financial Transaction Id: 20938475612. External Transaction Id: 485736492.*EN#
+
+You have received 13500 RWF from Olive MUKANDOLI (*693) on your mobile money account at 2025-05-18 12:50:00. Message from sender: fund-transfer to 250787976990. Your new balance: 188975 RWF. Financial Transaction Id: 21028475964
+
+*165*S*4700 RWF transferred to AgroMarket (250791990776) from 43127890 at 2025-05-20 13:15:00 .Fee was: 0 RWF. New balance: 174275 RWF. To Buy Airtime or Bundles using MoMo, Dial *182*2*1# .*EN#
+
+TxId: 20678491239. Your payment of 6900 RWF to SAWA CITI LTD. 19881572 has been completed at 2025-05-19 09:30:00. Your new balance: 166475 RWF. Fee was 0 RWF.
+
+You have received 18300 RWF from CEDRIC NSENGIYUMVA NGABO (*899) on your mobile money account at 2025-05-17 18:20:00. Message from sender: Payment for groceries. Your new balance: 188775 RWF. Financial Transaction Id: 21039847562
+
+
+
+
+
