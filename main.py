@@ -17,4 +17,4 @@ for x, y in patterns.items():
     #x is the name of the pattern
     #y is the regex pattern
     matches = re.findall(y, test_input)
-    print(f"{x}:\n{matches}\n")
+    print(f"{x}:\n\n{matches}\n\n")
