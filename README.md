@@ -18,7 +18,7 @@ It looks for and prints:
 
 ## Note:
 depending on what directory level you are in you may need to change the path. I used the absolute path to the file so you can access it at root level but if you are in the "alu_regex-data-extraction-AceArnold" directory you can use the relative path 
-### relative path: sample_data.txt
-### absolute path(path from root): alu_regex-data-extraction-AceArnold/sample_data.txt
+##### relative path: sample_data.txt
+##### absolute path(path from root): alu_regex-data-extraction-AceArnold/sample_data.txt
 
-# ********THANK YOU******** 
+### ********THANK YOU******** 
