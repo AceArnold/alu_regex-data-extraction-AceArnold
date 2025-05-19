@@ -3,7 +3,8 @@ import re
 with open("alu_regex-data-extraction-AceArnold/sample_data.txt") as file:
 
 #depending on what directory level you are in you may need to change the path
-#i used the absolute path to the file so you can access it at root level but if you are in the "alu_regex-data-extraction-AceArnold" directory you can use the relative path
+#i used the absolute path to the file so you can access it at root level 
+#but if you are in the "alu_regex-data-extraction-AceArnold" directory you can use the relative path
 #relative path: sample_data.txt
 #absolute path: alu_regex-data-extraction-AceArnold/sample_data.txt
 
